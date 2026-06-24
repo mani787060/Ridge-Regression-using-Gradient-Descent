@@ -106,12 +106,6 @@ A built-in regression dataset from Scikit-Learn containing medical features used
 
 ---
 
-## 🏁 Conclusion
-
-Ridge Regression using Gradient Descent combines optimization and regularization to build more robust machine learning models. This project provides a practical understanding of how L2 regularization influences model training and helps improve prediction performance.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -119,3 +113,11 @@ Ridge Regression using Gradient Descent combines optimization and regularization
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+---  
+
+## 🏁 Conclusion
+
+Ridge Regression using Gradient Descent combines optimization and regularization to build more robust machine learning models. This project provides a practical understanding of how L2 regularization influences model training and helps improve prediction performance.
+
+
